@@ -21,3 +21,6 @@ public :
 };
 
 
+//membuat class BinaryTree
+class BinaryTree {
+
